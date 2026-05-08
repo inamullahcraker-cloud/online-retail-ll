@@ -1,6 +1,9 @@
 🛒 Online Retail Customer Segmentation
+
 Unsupervised Learning using RFM Analysis
+
 📌 Project Overview
+
 This project focuses on segmenting customers of an online retail store based on their transaction history. 
 By categorizing customers, businesses can create targeted marketing campaigns, improve retention, 
 and identify high-value "VIP" shoppers.
